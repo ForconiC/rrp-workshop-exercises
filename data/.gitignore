@@ -1,0 +1,4 @@
+#FASTQ from SRA
+*.fastq.gz
+
+
